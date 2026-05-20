@@ -1,0 +1,25 @@
+{
+  "name": "yaya99",
+  "version": "1.0.0",
+  "description": "A modern, efficient project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest",
+    "build": "tsc",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "yaya99",
+    "project"
+  ],
+  "author": "yacoubkaba77-png",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "jest": "^29.0.0",
+    "eslint": "^8.0.0"
+  },
+  "dependencies": {}
+}
